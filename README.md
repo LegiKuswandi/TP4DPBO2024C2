@@ -123,6 +123,11 @@ Controller `TeamController` mengatur operasi terkait dengan tim.
 ### Halaman untuk edit data TEAM F1
 ![Screenshot 2024-05-07 233101](https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/a3b52fe6-2442-4abe-af84-d951e1c6aa69)
 
+# Screen Record
+https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/70cf39d5-64fe-4e3f-9a65-af64bdfe4df5
+
+
+
 
 
 
