@@ -2,6 +2,10 @@
 
 ## Saya Legi Kuswandi mengerjakan TP4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+# Sruktur Folder Setelah menerapkan Konsep MVC (Model, View, Controller)
+![Screenshot 2024-05-07 233128](https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/e933e8d0-4e0f-4ef7-8441-f7c7ad5ef24b)
+
+
 # Penjelasan Model Database
 
 ## Model Members
@@ -100,4 +104,26 @@ Controller `TeamController` mengatur operasi terkait dengan tim.
    - Menghapus tim dari database berdasarkan ID mereka.
 
 # Screenshot
+
+### Halaman depan yang menampilkan daftar member pembalap team F1
+![Screenshot 2024-05-07 232936](https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/83eebc61-e1fa-47e0-b63b-8b37094788b4)
+
+### Halaman untuk menambah data pembalap
+![Screenshot 2024-05-07 232956](https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/82467794-c9d3-41e5-90ac-ccd84fab1519)
+
+### Halaman untuk melakukan edit data pembalap
+![Screenshot 2024-05-07 233011](https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/f3ea64bf-b8a4-40c2-9343-5edd5cb000ca)
+
+### Halaman daftar TEAM F1
+![Screenshot 2024-05-07 233030](https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/bd801da4-ff4a-4e81-bbd6-850dd152c6b1)
+
+### Halaman untuk menambah data team
+![Screenshot 2024-05-07 233044](https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/d0be7b44-d551-4c01-8342-5b1927958b9b)
+
+### Halaman untuk edit data TEAM F1
+![Screenshot 2024-05-07 233101](https://github.com/LegiKuswandi/TP4DPBO2024C2/assets/147142081/a3b52fe6-2442-4abe-af84-d951e1c6aa69)
+
+
+
+
 
